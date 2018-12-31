@@ -21,6 +21,7 @@ namespace PodcastStorage
         News,
         Sociology,
         Science,
-        Psychology
+        Psychology,
+        Music
     }
 }
