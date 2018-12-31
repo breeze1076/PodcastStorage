@@ -17,6 +17,7 @@ namespace PodcastStorage
 
     internal enum PodcastCategory
     {
+        Comedy,
         Education,
         News,
         Sociology,
